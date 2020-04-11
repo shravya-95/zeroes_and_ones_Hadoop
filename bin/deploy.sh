@@ -5,10 +5,10 @@
 ########################################################
 
 input=$1
-sales_directory=/home/cloudera/salesdb
+sales_directory=~/salesdb
 # or sales_directory=~/salesdb
 hdfs_directory=/salesdb
-path_to_files=/home/cloudera/zeroes_and_ones_Hadoop
+path_to_files=~/mourya_scripts/zeroes_and_ones_Hadoop
 
 # or path_to_files=~/csci5751_Hadoop
 
